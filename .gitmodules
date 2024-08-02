@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "samplr"]
+	path = samplr
+	url = https://github.com/lucas-castillo/samplr
 [submodule "samplrData"]
 	path = samplrData
 	url = https://github.com/lucas-castillo/samplrdata
